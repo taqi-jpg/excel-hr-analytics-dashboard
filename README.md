@@ -67,15 +67,14 @@ The dashboard helps HR teams and management monitor:
 
 ## 📷 Project Screenshots
 
-### 1. Dashboard Overview
-`dashboard_overview.png`
+### Dashboard Overview  
+[![Dashboard Overview](dashboard_overview.png)](dashboard_overview.png)
 
-### 2. Formula Sheet
-`formula_sheet.png`
+### Formula Sheet  
+[![Formula Sheet](formula_sheet.png)](formula_sheet.png)
 
-### 3. Raw Data View
-`raw_data_sheet.png`
-
+### Raw Data View  
+[![Raw Data View](raw_data_sheet.png)](raw_data_sheet.png)
 ---
 
 ## 📁 Files Included
