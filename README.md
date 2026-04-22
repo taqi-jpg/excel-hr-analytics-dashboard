@@ -1,6 +1,6 @@
 # HR Analytics Dashboard in Excel
 
-## 📌 Project Overview
+## Project Overview
 This project is an interactive **HR Analytics Dashboard** built in **Microsoft Excel** to analyze workforce data and generate business insights. It demonstrates advanced Excel skills including formulas, Pivot Tables, charts, KPI cards, conditional formatting, and dashboard design.
 
 The dashboard helps HR teams and management monitor:
@@ -16,7 +16,7 @@ The dashboard helps HR teams and management monitor:
 
 ---
 
-## 🛠 Tools & Skills Used
+## Tools & Skills Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -34,7 +34,7 @@ The dashboard helps HR teams and management monitor:
 
 ---
 
-## 📊 Key Features
+## Key Features
 
 ### Dashboard Sheet
 - Executive KPI cards
@@ -55,7 +55,7 @@ The dashboard helps HR teams and management monitor:
 
 ---
 
-## 📈 Business Insights Generated
+## Business Insights Generated
 
 - Identified department with highest headcount
 - Calculated attrition percentage
@@ -65,7 +65,7 @@ The dashboard helps HR teams and management monitor:
 
 ---
 
-## 📷 Project Screenshots
+##  Project Screenshots
 
 ### Dashboard Overview  
 [![Dashboard Overview](dashboard_overview.png)](dashboard_overview.png)
@@ -85,12 +85,12 @@ The dashboard helps HR teams and management monitor:
 
 ---
 
-## 💼 Resume Value
+##  Resume Value
 
 Built an HR Analytics Dashboard in Excel using Pivot Tables, advanced formulas, KPI cards, charts, and conditional formatting to analyze employee attrition, salary, and performance metrics.
 
 ---
 
-## 🚀 Author
+##  Author
 
 Created by Taqi JPG
